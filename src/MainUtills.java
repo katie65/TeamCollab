@@ -1,6 +1,6 @@
 public class MainUtills {
 
-    public void collMethod(){
+    public static void collMethod(){
 
     }
 }
